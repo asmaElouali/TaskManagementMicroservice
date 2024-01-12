@@ -1,0 +1,3 @@
+com.example.client.controllers.ClientControllers#findAllUsers(Ljava/lang/Long;)LResponseEntity;
+==
+findUsersWithNotes com.example.client.service.ClientService#findUsersWithNotes(Ljava/lang/Long;)Lcom/example/client/service/FullUserResponce;

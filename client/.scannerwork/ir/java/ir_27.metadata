@@ -1,0 +1,8 @@
+com.example.client.service.ClientServiceTest#testFindUsersWithNotes()V
+com.example.client.service.Note#instance-init#
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+com.example.client.service.Note#<init>()V
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+==
+findAllNotesByUser com.example.client.client.UserClient#findAllNotesByUser(Ljava/lang/Long;)Ljava/util/List;
+findUsersWithNotes com.example.client.service.ClientService#findUsersWithNotes(Ljava/lang/Long;)Lcom/example/client/service/FullUserResponce;

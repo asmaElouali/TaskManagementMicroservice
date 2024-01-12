@@ -1,0 +1,4 @@
+com.example.client.controllers.ClientControllersTest#testFindAll()V
+null
+java.util.List#of(Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/List;
+com.example.client.entities.Client#instance-init#

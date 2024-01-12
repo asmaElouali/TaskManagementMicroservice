@@ -1,0 +1,51 @@
+
+„com.example.client.controllers.ClientControllers#addClient(Lcom/example/client/entities/Client;)Lcom/example/client/entities/Client;…
+{/C:/Users/acer/Desktop/Gestion des Taches/client/client/src/main/java/com/example/client/controllers/ClientControllers.java2 2("startingBlock*è
+startingBlock2 2(7˜
+•
+1 1(
+%1"
+__annotate*+
+
+__unknown_file (
+PostMapping*J
+
+__unknown_file (.
+,
+client"com.example.client.entities.Client˜
+•
+2 2((
+%2"
+__annotate*+
+
+__unknown_file (
+RequestBody*J
+
+__unknown_file (.
+,
+client"com.example.client.entities.Client‘
+Ž
+20 2(6,
+client"com.example.client.entities.Client"__annotation*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%2*
+1*×
+13 3(³
+°
+3 3(6
+%00com.example.client.repositories.ClientRepository"__id*f
+
+__unknown_file (J*H2
+0com.example.client.controllers.ClientControllers"
+clientRepository"
+3 3(-
+"":8
+2 2(6,
+client"com.example.client.entities.ClientB42
+0com.example.client.controllers.ClientControllersH

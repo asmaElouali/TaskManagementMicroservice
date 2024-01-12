@@ -1,0 +1,3 @@
+com.example.client.service.ClientService#findUsersWithNotes(Ljava/lang/Long;)Lcom/example/client/service/FullUserResponce;
+==
+findAllNotesByUser com.example.client.client.UserClient#findAllNotesByUser(Ljava/lang/Long;)Ljava/util/List;

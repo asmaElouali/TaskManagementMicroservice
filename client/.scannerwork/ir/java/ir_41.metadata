@@ -1,0 +1,5 @@
+com.example.client.controllers.ClientControllersTest#testfindAllUsers()V
+com.example.client.service.FullUserResponce#<init>()V
+com.example.client.service.FullUserResponce#instance-init#
+==
+findUsersWithNotes com.example.client.service.ClientService#findUsersWithNotes(Ljava/lang/Long;)Lcom/example/client/service/FullUserResponce;

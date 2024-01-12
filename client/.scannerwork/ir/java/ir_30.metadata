@@ -1,0 +1,5 @@
+com.example.client.repositories.ClientRepositoryTest#testFindByNom()V
+com.example.client.entities.Client#<init>(JLjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+com.example.client.entities.Client#instance-init#
+==
+findByNom com.example.client.repositories.ClientRepository#findByNom(Ljava/lang/String;)Lcom/example/client/entities/Client;

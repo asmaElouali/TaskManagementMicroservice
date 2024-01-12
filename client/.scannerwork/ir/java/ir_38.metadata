@@ -1,0 +1,4 @@
+com.example.client.controllers.ClientControllersTest#testFindById()V
+null
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;
+com.example.client.entities.Client#instance-init#

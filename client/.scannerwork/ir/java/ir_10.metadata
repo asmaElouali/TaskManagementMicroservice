@@ -1,0 +1,1 @@
+com.example.client.controllers.ClientControllers#addClient(Lcom/example/client/entities/Client;)Lcom/example/client/entities/Client;

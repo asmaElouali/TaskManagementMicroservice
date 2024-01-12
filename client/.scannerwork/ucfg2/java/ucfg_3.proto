@@ -1,0 +1,58 @@
+
+ocom.example.client.controllers.ClientControllers#findById(Ljava/lang/Long;)Lcom/example/client/entities/Client;…
+{/C:/Users/acer/Desktop/Gestion des Taches/client/client/src/main/java/com/example/client/controllers/ClientControllers.java" "("startingBlock*›
+startingBlock" "(2~
+|
+! !(
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.Long€
+~
+" "()
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+"/ "(1
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*ã
+1$ $(³
+°
+$ $(%6
+%00com.example.client.repositories.ClientRepository"__id*f
+
+__unknown_file (J*H2
+0com.example.client.controllers.ClientControllers"
+clientRepository‰
+†
+$? %(.
+%1"__declareFunction*a
+
+__unknown_file (EC
+A__sonar_lambda_0$com.example.client.controllers.ClientControllers"
+$	 %(0
+"": 
+" "(1
+idjava.lang.LongB42
+0com.example.client.controllers.ClientControllersH

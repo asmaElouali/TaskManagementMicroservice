@@ -1,0 +1,7 @@
+organization=sonarqubtaskmanagment
+projectKey=sonarqubtaskmanagment_taskmanagment
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51948
+dashboardUrl=https://sonarcloud.io/dashboard?id=sonarqubtaskmanagment_taskmanagment
+ceTaskId=AYzlp5hQP7mmYVJ6xLbH
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzlp5hQP7mmYVJ6xLbH
